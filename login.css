@@ -9,6 +9,7 @@
     --espaco-medio:16px;
     --espaco-grande:32px;
     --fonte:'Montserrat', sans-serif;
+    --teste:0;
 }
 body{
     font-family: var(--fonte);
